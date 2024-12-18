@@ -1,6 +1,6 @@
+## Jane's Github.
 
 <div align="center">
-## Jane's Github. 
  
  안녕하세요, 디자인, 기획, 커뮤니케이션에 강점을 가진 프론트엔드 개발자입니다.😊<br>
  JavaScript를 주로 활용하며, 다수의 프로젝트 경험으로 사용자 중심의 큰 그림을 바탕으로 결과물을 완성해 나갑니다.<br>
