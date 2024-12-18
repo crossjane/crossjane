@@ -7,7 +7,6 @@ JavaScript를 주로 활용하며, 다수의 프로젝트 경험으로 사용자
 <br>
 <br>
 <strong style="font-size:20px;">💎Skills</strong><br>
-<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
