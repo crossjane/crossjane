@@ -1,5 +1,9 @@
-## Hi Jane's Github. 👋
+## Jane's Github. 
+#안녕하세요, 디자인, 기획, 커뮤니케이션에 강점을 가진 프론트엔드 개발자입니다.😊<br>
+#JavaScript를 주로 활용하며, 다수의 프로젝트 경험으로 사용자 중심의 큰 그림을 바탕으로 결과물을 완성해 나갑니다.<br>
 
+<br>
+<br>
 <strong style="font-size:20px;">💎Skills</strong><br>
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
